@@ -1,18 +1,9 @@
-\---
-
-title: ML CI/CD Demonstration
-
+---
+title: Drug Classification Lite
 colorFrom: blue
-
 colorTo: green
-
 sdk: static
-
 pinned: false
+---
 
-\---
-
-
-
-A demonstration of ML model deployment using Gradio-Lite and CI/CD.
-
+A drug classification application using ONNX Runtime Web and CI/CD.
